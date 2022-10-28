@@ -1,0 +1,86 @@
+page{
+background-color: #FFFFFF;
+color: #212121;
+}
+
+.list{
+list-style: none;
+}
+
+/* site nav and info */
+
+.site-nav a{
+color: #212121;    
+}
+
+.meil a{
+color: #757575;
+}
+.telefon a{
+color: #757575;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+color: #2196F3;
+}
+
+.meilstyle:hover,
+.meilstyle:focus {
+color: #2196F3;
+}
+
+.telefonstyle:hover,
+.telefonstyle:focus {
+color: #2196F3;
+}
+
+/* Hero */
+.hero{
+background-color: #2F303A;
+}
+.hero-title{
+color: #FFFFFF;
+}
+
+.features p{
+color: #757575;
+}
+
+.comand p{
+color: #757575;
+}
+
+
+.buttons .links:hover,
+.buttons .links:focus{
+color: #FFFFFF;
+background-color: #2196F3;
+}
+
+.adress a{
+color: #FFFFFF;
+}
+
+.side-color{
+background-color: #2F303A;
+}
+
+.images p{
+color: #757575;
+}
+.images h3{
+color: #212121;
+}
+
+/* основной цвет текста #212121 */
+
+/* цвет 2 для серого #757575 */
+
+/* цвет для веб #2196F3 */
+
+/* цвет снизуссылок gba(255, 255, 255, 0.6); */
+
+/* вторичный бекграунд */
+
+

@@ -43,21 +43,30 @@ background-color: #2F303A;
 color: #FFFFFF;
 }
 
+/* Main page */
+
 .features p{
 color: #757575;
+}
+
+.team{
+background-color: #F5F4FA;
 }
 
 .comand p{
 color: #757575;
 }
 
+/*Portfolio css */
 
+/*buttons*/
 .buttons .links:hover,
 .buttons .links:focus{
 color: #FFFFFF;
 background-color: #2196F3;
 }
 
+/*footer для портфолио и индекс*/
 .adress a{
 color: #FFFFFF;
 }
@@ -79,8 +88,8 @@ color: #212121;
 
 /* цвет для веб #2196F3 */
 
-/* цвет снизуссылок gba(255, 255, 255, 0.6); */
+/* цвет снизу ссылок gba(255, 255, 255, 0.6); */
 
-/* вторичный бекграунд */
+/* вторичный бекграунд  #F5F4FA*/ 
 
 

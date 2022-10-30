@@ -18,11 +18,19 @@ body{
 background-color: #FFFFFF;
 color: var(--main-text-color);
 font-family: Roboto,sans-serif;
-font-family: Raleway;
 }
 
 .line{
 text-decoration: none;
+}
+
+.link{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14px;
+    letter-spacing: 0.02em;
 }
 
 
@@ -54,17 +62,7 @@ color: var(--main-text-color);
 
 
 
-span{
-    color: #2196F3;
-    
-    font-size: 26px;
-    line-height: 31px;
-    letter-spacing: 0.03em;
-    }
 
-    .span-color{
-    color: #212121;
-    }
 
 .studio{
 font-family: 'Raleway';
@@ -86,6 +84,10 @@ line-height: 1.19;
 letter-spacing: 0.03em;
 }
 
+.span-color{
+color: #212121;
+}
+
 .span-color-two{
 color: #FFFFFF;
 }
@@ -105,12 +107,12 @@ letter-spacing: 0.02em;
 
 
 .meil a{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-size: 14px;
-    line-height: 1.71;
-    letter-spacing: 0.03em;
-    color: var(--text-color-second);
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+color: var(--text-color-second);
 }
 .telefon a{
     font-family: 'Roboto';

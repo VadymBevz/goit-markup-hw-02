@@ -62,10 +62,14 @@ span{
     letter-spacing: 0.03em;
     }
 
+    .span-color{
+    color: #212121;
+    }
+
 .studio{
 font-family: 'Raleway';
 font-style: normal;
-color: var(--main-text-color);
+color: #2196F3;
 
 font-size: 26px;
 line-height: 1.19;
@@ -75,11 +79,15 @@ letter-spacing: 0.03em;
 .studiotwo{
     font-family: 'Raleway';
     font-style: normal;
-color: #FFFFFF;
+color: #2196F3;
 
 font-size: 26px;
 line-height: 1.19;
 letter-spacing: 0.03em;
+}
+
+.span-color-two{
+color: #FFFFFF;
 }
 
 /* site nav and info */
